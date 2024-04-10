@@ -19,6 +19,7 @@ import androidx.fragment.app.Fragment;
 import io.mouadoumous.permission.R;
 
 
+
 /**
  * Dialog to prompt the user to go to the app's settings screen and enable permissions. If the user
  * clicks 'OK' on the dialog, they are sent to the settings screen. The result is returned to the
