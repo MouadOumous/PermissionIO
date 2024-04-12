@@ -75,6 +75,7 @@ class RationaleDialogConfig {
                 .create();
     }
 
+
     AlertDialog createFrameworkDialog(Context context, Dialog.OnClickListener listener) {
         AlertDialog.Builder builder;
         if (theme > 0) {
